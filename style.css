@@ -44,12 +44,15 @@ nav > a:hover {
 main {
     text-align: center;
     background-color: white;
-    min-width: 320px;
+    min-width: 324px;
     max-width: 1000px;
     padding: 10px;
     margin: auto;
     box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.274);
 }
+main img {
+    width: 100%;
+}    
 
 h1#secundario {
     font-family: 'idroid';
